@@ -1,6 +1,7 @@
-OpenSlide
+## OpenSlide - Fork for the DeepPathology joint group
 
-Carnegie Mellon University and others
+
+Originally developed by: Carnegie Mellon University and others
 
 https://openslide.org/
 
